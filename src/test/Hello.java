@@ -7,7 +7,7 @@ public class Hello {
 		
 		System.out.println("Hello Class");
 		
-		System.out.println("It is almost 5pm!");
+		System.out.println("It is almost 5pm! hh");
 
 	}
 
